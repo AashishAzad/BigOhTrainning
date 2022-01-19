@@ -4,6 +4,8 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+//  Write a function Boolean isValidURL(String url).
+
 public class Fourth {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);

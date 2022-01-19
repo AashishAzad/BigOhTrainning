@@ -2,6 +2,8 @@ package Day1;
 
 import java.util.Scanner;
 
+//  Find the largest number less than N whose each digit is prime number.
+
 public class Third {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
