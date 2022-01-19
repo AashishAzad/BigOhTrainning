@@ -2,6 +2,11 @@ package Day2;
 
 import java.util.Scanner;
 
+/* Write a program to remove duplicate values from an array
+   and returns an array of unique values.
+   int[] removeDuplicates(int[]values)
+ */
+
 public class First {
     public static void main(String[] args) {
 

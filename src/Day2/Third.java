@@ -2,6 +2,16 @@ package Day2;
 
 import java.util.Scanner;
 
+//Write a program to print the below pattern:
+//            \*****/
+//            *\***/*
+//            **\*/**
+//            ***\***
+//            **/*\**
+//            */***\*
+//            /*****\
+
+
 public class Third {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
