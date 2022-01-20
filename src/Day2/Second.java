@@ -1,5 +1,6 @@
 package Day2;
 
+import java.util.Hashtable;
 import java.util.Scanner;
 
 /* Write a function that takes in a non-empty array of distinct integers and an integer representing
@@ -13,6 +14,15 @@ public class Second {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
+//        Hashtable<Integer,Integer> ht = new Hashtable<Integer, Integer>();
+//
+//        int i;
+//        for (i = 0;  i< size; i++) {
+//            int elem = sc.nextInt();
+//            ht.put(i,elem);
+//        }
+
+
         int ar[] = new int[size];
         for (int i = 0; i < size; i++) {
             ar[i] = sc.nextInt();
@@ -48,5 +58,6 @@ public class Second {
                 }
             }
         }
+
     }
 }

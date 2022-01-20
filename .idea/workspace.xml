@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="174c812a-1a57-49b4-8f48-c2c380235232" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Day1/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day1/First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Fifth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Fifth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/First.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Fourth.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Fourth.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Second.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Second.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Third.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day1/Third.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day2/Second.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day2/Second.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day3/First.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day3/First.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TainningBigOh/Day3/Second.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TainningBigOh/Day3/Second.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day2/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day2/Second.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Day3/First.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3/First.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day3/Second.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day3/Second.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,58 +21,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day3/First.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-              <folding>
-                <element signature="method#checkHorizontal#0;class#First#0" />
-                <element signature="method#checkHorizontal#1;class#First#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day3/Second.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-              <folding>
-                <element signature="e#799#1080#1" />
-                <element signature="method#checkByElephant#0;class#Second#0" />
-                <element signature="method#checkByElephant#1;class#Second#0" />
-                <element signature="method#checkByCamel#0;class#Second#0" />
-                <element signature="method#checkByHorse#0;class#Second#0" />
-                <element signature="method#checkVertically#0;class#Second#0" />
-                <element signature="method#checkHorizontally#0;class#Second#0" />
-                <element signature="method#checkLeftDiagonal#0;class#Second#0" />
-                <element signature="method#checkRightDiagonal#0;class#Second#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day1/First.java">
+        <entry file="file://$PROJECT_DIR$/src/Day4/First.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="255">
+              <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+              <folding>
+                <element signature="e#518#573#0" />
+                <element signature="e#2517#2562#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day2/Third.java">
+        <entry file="file://$PROJECT_DIR$/src/Day4/Second.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="34">
+              <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -85,11 +63,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Day2/First.java" />
-        <option value="$PROJECT_DIR$/src/Day2/Second.java" />
         <option value="$PROJECT_DIR$/src/Day2/Third.java" />
-        <option value="$PROJECT_DIR$/src/Day3/First.java" />
         <option value="$PROJECT_DIR$/src/Day3/Second.java" />
         <option value="$PROJECT_DIR$/src/Day1/First.java" />
+        <option value="$PROJECT_DIR$/src/Day1/Second.java" />
+        <option value="$PROJECT_DIR$/src/Day1/Third.java" />
+        <option value="$PROJECT_DIR$/src/Day1/Fourth.java" />
+        <option value="$PROJECT_DIR$/src/Day1/Fifth.java" />
+        <option value="$PROJECT_DIR$/src/Day2/Second.java" />
+        <option value="$PROJECT_DIR$/src/Day3/First.java" />
+        <option value="$PROJECT_DIR$/src/Day4/First.java" />
       </list>
     </option>
   </component>
@@ -106,8 +89,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,12 +105,14 @@
               <item name="TainningBigOh" type="b2602c69:ProjectViewProjectNode" />
               <item name="TainningBigOh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Day1" type="462c0819:PsiDirectoryNode" />
+              <item name="Day4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Second">
+  <component name="RunManager" selected="Application.First (1)">
     <configuration name="Fifth" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day1.Fifth" />
       <module name="TainningBigOh" />
@@ -164,12 +147,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="First (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day4.First" />
+      <module name="TainningBigOh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="First" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day3.First" />
       <module name="TainningBigOh" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Second (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day2.Second" />
+      <module name="TainningBigOh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,8 +201,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.First (1)" />
         <item itemvalue="Application.First" />
+        <item itemvalue="Application.Second" />
+        <item itemvalue="Application.Second (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -219,19 +230,19 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24966443" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Run" order="5" visible="true" weight="0.44617563" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.296034" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
@@ -243,13 +254,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Day1/Fifth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day2/First.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
@@ -257,10 +261,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day2/Second.java">
+    <entry file="file://$PROJECT_DIR$/src/Day1/First.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="8" column="105" selection-start-line="8" selection-start-column="105" selection-end-line="8" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Third.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Fourth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day1/Fifth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
         </state>
       </provider>
     </entry>
@@ -273,23 +305,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day3/First.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="583">
+          <caret line="82" column="20" selection-start-line="82" selection-start-column="20" selection-end-line="82" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day2/Second.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
           <folding>
-            <element signature="method#checkHorizontal#0;class#First#0" />
-            <element signature="method#checkHorizontal#1;class#First#0" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day3/Second.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        <state relative-caret-position="1428">
+          <caret line="97" column="13" selection-start-line="97" selection-start-column="13" selection-end-line="97" selection-end-column="13" />
           <folding>
-            <element signature="e#799#1080#1" />
             <element signature="method#checkByElephant#0;class#Second#0" />
-            <element signature="method#checkByElephant#1;class#Second#0" />
             <element signature="method#checkByCamel#0;class#Second#0" />
             <element signature="method#checkByHorse#0;class#Second#0" />
             <element signature="method#checkVertically#0;class#Second#0" />
@@ -300,10 +336,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day1/First.java">
+    <entry file="file://$PROJECT_DIR$/src/Day4/Second.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="34">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day4/First.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#518#573#0" />
+            <element signature="e#2517#2562#0" />
+          </folding>
         </state>
       </provider>
     </entry>
