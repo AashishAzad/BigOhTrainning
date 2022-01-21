@@ -69,10 +69,10 @@ public class first {
     public static void printAntiClockWise(int[][] ar){
         int cR = 0;                     // represents Current Row
         int eR = ar.length;             // represents End Row
-        int eC = 0;                     // represents Current Column
-        int cC = ar[0].length;          // represents End Column
+        int eC = 0;                     // represents End Column
+        int cC = ar[0].length;          // represents Current Column
         while(cR < eR && cC > eC){
-            for (int i = cC-1; i >= 0; i--) {
+            for (int i = cC-1; i >= eC; i--) {
                 System.out.print(ar[cR][i]+" ");
             }
             cR++;
