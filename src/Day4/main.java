@@ -8,8 +8,11 @@ public class main {
         StringUtils pb = new StringUtils();
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
+        char ch = sc.nextLine().charAt(0);
 
-        System.out.println(pb.reverseVowels(str));
+        pb.countChar(str,ch);
+
+//        System.out.println(pb.reverseVowels(str));
 //        char ch = sc.nextLine().charAt(0);
 //        int start = sc.nextInt();
 //        int end = sc.nextInt();
