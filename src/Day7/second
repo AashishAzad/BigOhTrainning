@@ -1,0 +1,28 @@
+{
+    "Employee":{
+        "name": "Aashish",
+        "salary": 21,
+        "married": false,
+        "address":{
+            "primaryAddress": "",
+            "secondaryAddress": "",
+            "country": "",
+            "state": ""
+        }
+        "mobileNumber":["M1","M2","M3","M4"],
+        "address":{
+            "s1":{
+                "primaryAddress": "",
+                "secondaryAddress": "",
+                "country": "",
+                "state": ""
+            },
+            "s1":{
+                "primaryAddress": "",
+                "secondaryAddress": "",
+                "country": "",
+                "state": ""
+            }
+        }
+    }
+}

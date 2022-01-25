@@ -1,0 +1,20 @@
+public class main(){
+    String firstName = "John",
+    String lastName = "Smith",
+    int age = 25;
+    List<Address> address;
+    PhoneNumber phoneNumber[];
+
+}
+
+public class Address{
+    String streetAddress = "21 2nd Street";
+    String city = "New York";
+    String state = "NY";
+    String postalCode = "10021";
+}
+
+public class PhoneNumber{
+    String type;
+    String number;
+}
