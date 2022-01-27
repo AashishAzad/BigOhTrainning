@@ -15,8 +15,8 @@ public class five {
         int row = order;
         int col = order;
 
-        for (int i = 0; i < row; i++) {
-            for (int j = 0; j < col; j++) {
+        for (int i = 0; i < row-1; i++) {
+            for (int j = i+1; j < col; j++) {
                 if(i!=j){
                     int temp = ar[i][j];
                     ar[i][j] = ar[j][i];
@@ -26,11 +26,21 @@ public class five {
 
         }
 
-        for (int i = 0; i < order/2; i++) {
-            for (int j = order-1; j > order/2; j--) {
-                int temp = ar[i][i];
-                ar[i][i] = ar[i][j];
-                ar[i][j] = temp;
+        for (int i = 0; i < order; i++) {
+            int j = (order/2)-1;
+            int k;
+            if (order%2==0){
+                k = order/2;
+            }
+            else{
+                k = (order/2)+1;
+            }
+            while(j>=0&&k<order){
+                int temp = ar[i][j];
+                ar[i][j] = ar[i][k];
+                ar[i][k] = temp;
+                j--;
+                k++;
             }
         }
 
